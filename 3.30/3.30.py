@@ -27,4 +27,23 @@
 #     print('Hello %s'%name)
 
 
+# n = 1
+# while n>0:
+#     n = n + 1
+#     n = n * n
+#     print(n)
 
+# dict and set
+
+# --------->dict
+# names = ['Michael','Bob','Tracy']
+# scores = [95,75,85]
+# print(names)
+# print(scores)
+# d = {'Michael':95,'Bob':75,'Tracy':85}
+# print(d['Michael'])
+# d['Adam'] = 67
+# print(d)
+# print('T' in d)
+
+# ----------->set
